@@ -8,4 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class PostsData extends Model
 {
     use HasFactory;
+
+//    protected $table = 'posts_data';
+
 }
