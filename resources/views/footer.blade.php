@@ -1,6 +1,6 @@
 @section('footer')
     <div class="divToFixedFooter">
-        <div class="footer">Stopka stronki</div>
+        <div class="footer">GitHub: <a href="https://github.com/WHHY100/Data_Service" target="_blank">Data Service</a></div>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
