@@ -2,6 +2,9 @@
 <!doctype html>
 <html lang="pl">
 <head>
+
+    <meta name="google-site-verification" content="nNn0xrurt8It-MLiHBORJKcIlJAs4fA65Jb4O5VjUUU" />
+
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link rel="icon" href="https://avatars2.githubusercontent.com/u/4430336?s=280&v=4">
