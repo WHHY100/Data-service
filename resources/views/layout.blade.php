@@ -9,6 +9,9 @@
     <meta name="author" content="Dorian Dziula">
     <title>Data Service</title>
 
+    <link rel="stylesheet"
+          href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+
     <link href='../css/style.css' rel="stylesheet">
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/jumbotron/">
